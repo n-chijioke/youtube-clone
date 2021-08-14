@@ -48,7 +48,7 @@ function RecommendedVideos() {
                     image="https://i.ytimg.com/vi/bdzvWBKaBpY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA165TuXveGIKFoYaqNm17LNJTulw"
                 />
                 <VideoCard 
-                    title="[Memory Hunter] Sven Swords Stir up Strife in Wulin! | YOUKU MOVIE"
+                    title="[Memory Hunter] Seven Swords Stir up Strife in Wulin! | YOUKU MOVIE"
                     views="3k Views"
                     timestamp="22 hours ago"
                     channelImage="https://yt3.ggpht.com/ytc/AKedOLQr0mfIzeo5nDdh7Fw4Eszo6_weqesYW8ofWGs7BA=s68-c-k-c0x00ffffff-no-rj"
